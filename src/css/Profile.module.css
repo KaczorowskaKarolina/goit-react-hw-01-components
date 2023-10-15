@@ -1,7 +1,7 @@
 .profile {
     text-align: center;
     border-radius: 5px;
-    box-shadow: 5px 5px 5px 5px rgb(122, 122, 122);
+    box-shadow: 5px 5px 5px 5px rgb(225, 225, 178);
     background-color: white;
 }
 
@@ -15,7 +15,7 @@
 
 .avatar {
     border-radius: 50%;
-    background-color: rgb(236, 236, 225);
+    background-color: rgb(208, 202, 202);
 }
 
 .name {
@@ -36,7 +36,7 @@
 }
 
 .stats {
-    background-color: rgb(225, 225, 236);
+    background-color: rgb(223, 223, 247);
     display: flex;
 }
 

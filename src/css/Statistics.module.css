@@ -1,7 +1,7 @@
 .statistics {
-    background-color: white;
+    background-color: rgb(227, 226, 226);
     border-radius: 5px;
-    box-shadow: 5px 5px 5px 5px rgb(122, 122, 122);
+    box-shadow: 5px 5px 5px 5px rgb(225, 225, 178);
 }
 
 .title {

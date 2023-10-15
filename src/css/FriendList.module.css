@@ -14,9 +14,9 @@
     border-radius: 5px;
     align-items: center;
     gap: 10px;
-    background-color: aliceblue;
+    background-color: rgb(227, 237, 246);
     width: 100%;
-    box-shadow: 3px 3px 3px 3px rgb(193, 193, 181);
+    box-shadow: 3px 3px 3px 3px rgb(225, 225, 178);
 }
 
 .status {
@@ -26,12 +26,12 @@
 }
 
 .isOnline {
-    background-color: rgb(43, 153, 63);
+    background-color: rgb(92, 237, 119);
 }
 
 .avatar {
     border-radius: 10px;
-    background-color: rgb(230, 230, 230);
+    background-color: rgb(208, 202, 202);
 }
 
 .name {

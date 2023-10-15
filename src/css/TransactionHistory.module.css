@@ -2,14 +2,14 @@
     width: 100%;
     max-width: 800px;
     text-align: center;
-    box-shadow: 5px 5px 5px 5px rgb(171, 157, 157);
+    box-shadow: 5px 5px 5px 5px rgb(225, 225, 178);
     border-radius: 2px;
     border: 1px solid lightgray;
 }
 
 .thead {
     text-transform: uppercase;
-    background-color: rgb(17, 175, 207);
+    background-color: rgb(110, 195, 212);
     color: rgba(255, 255, 255, 0.9);
 }
 
